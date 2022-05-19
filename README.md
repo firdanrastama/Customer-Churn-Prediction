@@ -3,6 +3,7 @@
 ## Introduction
 
 This repository contains an end-to-end data analysis and build a machine learning model to predict customer churn. The goal of this project is to build a model which can predict whether or not a customer will stop using the services of the business which can lead to significant losses.
+
 Link for the jupyter notebook [Customer Churn Project](https://github.com/firdanrastama/Customer-Churn-Prediction/blob/main/churn_prediction.ipynb).
 
 ## Problem Statement
