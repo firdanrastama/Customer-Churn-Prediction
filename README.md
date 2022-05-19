@@ -19,7 +19,7 @@ The evaluation metric of this project is the recall score, since in the dataset 
 - Exploratory Data Analysis
 - Data Preprocessing
 - Data modeling and model evaluation
-- Compare the models
+- Comparing the models
 - Feature Engineering
 
 ## Summary
