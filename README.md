@@ -25,4 +25,4 @@ The evaluation metric of this project is the recall score, since in the dataset 
 
 ## Summary
 
-We started by cleaning the data and analyzing it with visualization. Then, to be able to build a machine learning model, we transformed the categorical data into numeric variables. After transforming the data, we tried 4 different machine learning algorithms using default parameters and tuned the hyperparameters with GridSearchCV. And we found our best model **XGboost** obatining recall of **81%** and accuracy of **96%**
+We started by cleaning the data and analyzing it with visualization. Then, to be able to build a machine learning model, we transformed the categorical data into numeric variables. After transforming the data, we tried 4 different machine learning algorithms using default parameters and tuned the hyperparameters with GridSearchCV. And we found our best model **XGboost** obtaining recall of **81%** and accuracy of **96%**
