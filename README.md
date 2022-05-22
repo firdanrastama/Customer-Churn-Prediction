@@ -12,7 +12,7 @@ Churn is when a customer stops doing business or ends a relationship with a comp
 
 ## Evaluation metric
 
-The evaluation metric of this project is the recall score, since in the dataset we have a imbalanced classes accuracy is not a good metric for this case and we will have a recall score of the metric in this project
+The evaluation metric of this project is the recall score, since in the dataset we have a imbalanced classes accuracy is not a good metric for this case and we will have a recall score of the metric in this project.
 
 ## Steps of the project
 - Import libraries
