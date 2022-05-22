@@ -4,7 +4,7 @@
 
 This repository contains an end-to-end data analysis and build a machine learning model to predict customer churn. The goal of this project is to build a model which can predict whether or not a customer will stop using the services of the business which can lead to significant losses.
 
-Link for the jupyter notebook [Customer Churn Project](https://github.com/firdanrastama/Customer-Churn-Prediction/blob/main/churn_prediction.ipynb).
+Link for the jupyter notebook [Customer Churn Project](https://github.com/firdanrastama/Customer-Churn-Prediction/blob/main/customer_churn_prediction.ipynb).
 
 ## Problem Statement
 
@@ -25,4 +25,4 @@ The evaluation metric of this project is the recall score, since in the dataset 
 
 ## Summary
 
-We started by cleaning the data and analyzing it with visualization. Then, to be able to build a machine learning model, we transformed the categorical data into numeric variables. After transforming the data, we tried 4 different machine learning algorithms using default parameters and tuned the hyperparameters with GridSearchCV. And we found our best model **XGBoost** obtaining recall of **81%** and accuracy of **96%**
+We started by cleaning the data and analyzing it with visualization. Then, to be able to build a machine learning model, we transformed the categorical data into numeric variables. After transforming the data, we tried 4 different machine learning algorithms using default parameters and tuned the hyperparameters with GridSearchCV. And we found our best model **XGBoost** obtaining recall of **85%** and auc score of 93%
