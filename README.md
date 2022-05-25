@@ -8,7 +8,7 @@ Link for the jupyter notebook [Customer Churn Project](https://github.com/firdan
 
 ## Problem Statement
 
-Churn is when a customer stops doing business or ends a relationship with a company. It’s a common problem across a variety of industries and a company that can predict churn can take proactive action to retain valuable customers and get ahead of the competition. Predicting customer churn is critical for companies. It is more costly to acquire new customers than to retain existing ones.
+Churn is when a customer stops doing business or ends a relationship with a company. It’s a common problem across a variety of industries and a company that can predict churn can take proactive action to retain valuable customers and get ahead of the competition. Predicting customer churn is critical for companies. The goal of this project is to predict which customers are more likely to change and take actions accordingly
 
 ## Evaluation metric
 
